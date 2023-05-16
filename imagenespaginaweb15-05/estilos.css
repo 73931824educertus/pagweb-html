@@ -1,0 +1,19 @@
+#pck{
+    font-size: 14px;
+}
+#pck h3{
+    color: blue;
+    font-size: 40px;
+}
+#rdn{
+    background: linear-gradient(214.85deg, #0DAEDB 11.2%, #037FA2 79.48%);   
+}
+#rdn p{
+    color: #fff;
+    font-size: 14px;
+}
+#pck h2{
+    font-size: 40px;
+    color: #fff;
+    align-content: center;  
+}
